@@ -52,19 +52,19 @@ Arduino IDE
 
 Download and install Arduino IDE:
 
-Arduino IDE — Official Download
+https://www.arduino.cc/en/software/
 
 M5Stack Board Manager
 
 Follow M5Stack's guide for installing the required board support:
 
-M5Stack Arduino Board Setup
+https://docs.m5stack.com/en/arduino/arduino_board
 
 Arduino Library Manager
 
 Use this guide to install the required Arduino libraries:
 
-M5Stack Arduino Library Management
+https://docs.m5stack.com/en/arduino/arduino_library
 
 🐛 Bugs & Issues
 
